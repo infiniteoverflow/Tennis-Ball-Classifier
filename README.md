@@ -10,6 +10,8 @@ $ pip install -r requirements.txt
 
 - Add the images u want in the Images Directory
 
+- Set the path to the new image in the classifier file
+
 - Run the classifier python file
 ```bash
 $ python classifier.py
